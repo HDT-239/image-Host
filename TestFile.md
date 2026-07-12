@@ -9,7 +9,7 @@ Many Markdown parsers are incredibly strict about spacing. If you don't leave a 
 * **Headers:** Make sure there is a blank line *before* your `# Heading`. If it touches the text above it, it won't render.
 * **Lists:** A bulleted or numbered list must have a blank line separating it from the paragraph above it.
 
-### 2. The Dreaded Space After the `#` Symbol
+#### 2. The Dreaded Space After the `#` Symbol
 
 If you are trying to make a header and you write `#My Heading` instead of `# My Heading`, the preview will just show the raw text. **There must be a space** between the hashtags and your text.
 
