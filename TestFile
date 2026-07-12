@@ -1,4 +1,3 @@
-
 That is incredibly frustrating, especially when you’ve taken the time to format everything properly. When Markdown looks fine in the editor but completely breaks or prints as raw text in the Preview mode, it almost always comes down to a few specific quirks.
 
 Since different platforms (like GitHub, Obsidian, Notion, or text editors) have their own flavors of Markdown, here are the most common culprits to check right now:
@@ -35,4 +34,3 @@ In standard Markdown, simply pressing `Enter` once to start a new line doesn't a
 ---
 
 **Which app or platform are you currently writing this in?** If you let me know where you're typing it, I can tell you if that specific platform has a known preview bug or requires a specific setting toggled on.
-
